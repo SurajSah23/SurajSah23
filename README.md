@@ -69,7 +69,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://ibb.co/2Nk15Tn" alt="tailwind" width="40" height="40"/>
+    <img src="https://i.ibb.co/GT54Fqx/download.png" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS" width="40" height="40"/>

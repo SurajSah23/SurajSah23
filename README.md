@@ -70,6 +70,5 @@
   </a>
   <a href="https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/YjkpBX5/dbms-image.png" alt="DBMS" width="40" height="40"/>
-</a>
-
+  </a>
   </p>

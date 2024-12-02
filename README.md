@@ -68,7 +68,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://i.ibb.co/GT54Fqx/download.png" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS" width="40" height="40"/>
+  <a href="https://ibb.co/YjkpBX5" target="_blank" rel="noreferrer">
+    <img src="https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/" alt="DBMS" width="40" height="40"/>
   </a>
 </p>

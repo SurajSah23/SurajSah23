@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Suraj Sah</h1>
-<h3 align="center">Passionate about Software Development</h3>
+<h3 align="center">Passionate about Software Programming</h3>
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=" alt="image" width="600"/>

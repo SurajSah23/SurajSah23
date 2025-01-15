@@ -8,7 +8,7 @@
   <img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=" alt="image" width="600"/>
 </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Software Programming**
 - 📫 How to reach me: **suraj23@navurukul.org**
 
 ---

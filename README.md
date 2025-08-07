@@ -27,7 +27,7 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,prisma,tailwind,bootstrap,materialui,styledcomponents,figma,xd,photoshop,framer,vite,vscode,webstorm,git,github,gitlab,postman,webpack,babel,graphql,apollo,docker,nginx,vercel,netlify,heroku,firebase,supabase,sass,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,prisma,tailwind,bootstrap,materialui,styledcomponents,figma,xd,photoshop,vite,vscode,webstorm,git,github,gitlab,postman,webpack,babel,graphql,apollo,docker,nginx,vercel,netlify,heroku,firebase,supabase,sass,threejs" />
 </p>
 
 ---

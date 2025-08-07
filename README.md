@@ -1,18 +1,24 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Suraj Sah</h1>
-<h3 align="center">Passionate about Software Programming</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Suraj Sah</span></h1>
+<h3 align="center">🚀 Passionate about Software Programming & Continuous Learning</h3>
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=" alt="image" width="600"/>
+  <img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=" alt="Coding Desk" width="600" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
-- 🌱 I’m currently learning **Software Programming**
-- 📫 How to reach me: **suraj23@navurukul.org**
+---
 
+### 💡 About Me
+
+- 🌱 Currently diving deep into **Software Programming & Development**
+- 🎯 Exploring **Full-Stack Web Development**, **Open Source**, and **Problem Solving**
+- 📬 Reach me at: [**suraj23@navgurukul.org**](mailto:suraj23@navgurukul.org)
 
 ---
+
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 

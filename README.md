@@ -15,21 +15,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/thesuraj964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesuraj964" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/suraj-sah-b350a42b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-sah-b350a42b9" height="30" width="40" /></a>
-  <a href="https://instagram.com/thesuraj964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesuraj964" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/suraj_ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suraj_ng" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/@suraj_sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suraj_sah" height="30" width="40" /></a>
+  <a href="https://twitter.com/thesuraj964" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/suraj-sah-b350a42b9" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" />
+  </a>
+  <a href="https://instagram.com/thesuraj964" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" />
+  </a>
+  <a href="https://www.codechef.com/users/suraj_ng" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
----
-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,api" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
 </p>
 
 ---

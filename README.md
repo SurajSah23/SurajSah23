@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/suraj-sah-b350a42b9" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" />
   </a>
-  <a href="https://instagram.com/thesuraj964" target="blank">
+  <a href="https://instagram.com/techcoder.suraj" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" />
   </a>
   <a href="https://www.codechef.com/users/suraj_ng" target="blank">

@@ -33,11 +33,3 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake Game (Live)
-
-<p align="center">
-  <img src="https://github.com/SurajSah23/SurajSah23/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- You must set up GitHub Actions with .github/workflows/snake.yml to auto-generate this SVG -->

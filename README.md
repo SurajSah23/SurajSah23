@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Software Programming**
 - 📫 How to reach me: **suraj23@navurukul.org**
+  
+---
 
 ---
 

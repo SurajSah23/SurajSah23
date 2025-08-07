@@ -1,4 +1,3 @@
-
 ---
 
 <h1 align="center">Hi 👋, I'm Suraj Sah</h1>
@@ -24,16 +23,21 @@
   <a href="https://instagram.com/techcoder.suraj" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" />
   </a>
-  <a href="https://www.codechef.com/users/suraj_ng" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" />
-  </a>
 </p>
 
 ---
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,figma,vite,vscode,git,github,postman,webpack" />
 </p>
 
 ---
+
+### 🐍 GitHub Contribution Snake Game (Live)
+
+<p align="center">
+  <img src="https://github.com/SurajSah23/SurajSah23/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- You must set up GitHub Actions with .github/workflows/snake.yml to auto-generate this SVG -->

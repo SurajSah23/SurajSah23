@@ -51,5 +51,4 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajSah23&label=Profile%20views&color=0e75b6&style=flat" alt="surajsah23" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drop-x-out&show_icons=true&locale=en" alt="surajsah23" /></p>
+<img align="right" src="https://media.tenor.com/DIBZH5Yaz00AAAAM/tick-tock-clock.gif" alt="clock" width="400">

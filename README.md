@@ -52,3 +52,4 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajSah23&label=Profile%20views&color=0e75b6&style=flat" alt="drop-x-out" /> </p>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dropxout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dropxout" /></a></p><br><br>

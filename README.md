@@ -51,4 +51,6 @@
 
 ---
 
-![Coding Loop](assets/code-loop.gif)
+<h1>My Developer Life</h1>
+<img src="assets/code-loop.gif" alt="Coding Loop" width="400">
+

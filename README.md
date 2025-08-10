@@ -52,4 +52,3 @@
 ---
 
 ![Coding Loop](assets/code-loop.gif)
-" /></p>
